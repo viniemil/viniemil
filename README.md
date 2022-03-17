@@ -5,8 +5,8 @@
 </p>
 
 <p align="left">
-  - Cursando <a href="https://www.ulbra.br/porto-alegre" alt="Growdev">Analise de Sistemas|ULBRA.</a><br>
-  - Cursando <a href="https://growdev.com.br" alt="Growdev">Web FullStack Develloper|GrowDev.</a>
+  - Cursando <a href="https://www.ulbra.br/porto-alegre" alt="Growdev">Analise de Sistemas | ULBRA.</a><br>
+  - Cursando <a href="https://growdev.com.br" alt="Growdev">Web FullStack Develloper | GrowDev.</a>
 </p>
 
 
