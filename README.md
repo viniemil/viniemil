@@ -12,7 +12,7 @@
 
 
 <p align="left">
-   <strong> CSS | HTML | Javascript</strong>
+   <strong> CSS | HTML | Javascript | Typescript | React | SQL</strong>
 </p>
 
 
